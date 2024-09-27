@@ -8,5 +8,6 @@ namespace SdetBootcampDay5
 {
     internal class TestBranchClass
     {
+        // Some change
     }
 }
